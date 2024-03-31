@@ -34,19 +34,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256740632497)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Iam_Bravo1)
-[![Twitter]
-(https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Iam_Bravo1)
 
-- :video_camera: Watch free tech tutorials [![YT channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/@TILLTV)]
+- :video_camera: Watch free tech tutorials
+[![YT channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TILLTV)
 
-- :full_moon_with_face: When life gives me lemons, i make lemonade 😁
+- :full_moon_with_face: Funny fact about me: When life gives me lemons, i make lemonade 😁
 
   
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<img alt="Development" width="400" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
