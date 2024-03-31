@@ -1,7 +1,19 @@
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
-
-
-<h1 align="center"><b>Hello, howdy?I'm Bravo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif" width="600"/>
+</div>
+<div id="badges">
+  <a href="https://www.youtube.com/@TILLTVUG">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.twitter.com/Iam_Bravo1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Hiddenuserug&style=flat-square&color=blue" alt="Profile Views"/>
+<h1>
+  Hey there, I'm Bravo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 <p align="center">
