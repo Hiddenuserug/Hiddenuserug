@@ -33,11 +33,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. On top of that i upload videos on my YouTube channel about tech.
 
 - :mailbox: How to reach me: [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256740632497)
-- [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Iam_Bravo1)
-- [![Twitter]
-
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Iam_Bravo1)
+[![Twitter]
+(https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Iam_Bravo1)
 
 - :video_camera: Watch free tech tutorials [![YT channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/@TILLTV)]
 
