@@ -26,6 +26,19 @@
 
 
 ---
+   ### Now playing Spotify 🎧
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31v6u2tpmst5rplyvdvgx6y6av6e&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31v6u2tpmst5rplyvdvgx6y6av6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</a>
+</p>
+
+  ### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
