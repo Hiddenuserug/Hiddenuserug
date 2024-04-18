@@ -69,6 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=hiddenuserug&show_icons=true&theme=default#gh-light-mode-only)](https://www.youtube.com/@itsbravotech)
 
 <!--
 **Hiddenuserug/Hiddenuserug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
