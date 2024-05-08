@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif" width="600"/>
 </div>
 <div id="badges">
-  <a href="https://www.youtube.com/@TILLTVUG">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
     <a href="https://www.youtube.com/@itsbravotech">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -19,7 +16,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=900&height=100&lines=My+name+is+Bravo+a.k.a+Grey+Hat+some+know+me+as+ابراهيم...;I+am+a+Student++;Full-Stack+Developer+from+Uganda;I+fancy+programming,;I+am+the+CEO+@TILLTVUG+on+Youtube,;Visit+to+watch+free+tech+videos...<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=900&height=100&lines=My+name+is+Bravo+a.k.a+Grey+Hat+some+know+me+as+ابراهيم...;I+am+a+Student++;Full-Stack+Developer+from+Uganda;I+fancy+programming,;I+am+the+CEO+@itsbravotech+on+Youtube,;Visit+to+watch+tech+videos...<3">
   </a>
 </p>
 
@@ -36,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Iam_Bravo1)
 
 - :video_camera: Watch free tech tutorials
-[![YT channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TILLTV)
+[![YT channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsbravotech)
 
 - :full_moon_with_face: Funny fact about me: When life gives me lemons, i make lemonade 😁
 
@@ -65,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     
 ---
 
-[![Learn Termux](https://img.youtube.com/vi/AxfQPtSZqM0/0.jpg)](https://www.youtube.com/watch?v=AxfQPtSZqM0)
+[![Watch now](https://img.youtube.com/vi/QZ2YVbNTWkE/0.jpg)](https://www.youtube.com/watch?v=QZ2YVbNTWkE)
 
 ---
 
