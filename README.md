@@ -32,8 +32,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256740632497)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Iam_Bravo1)
 
-- :video_camera: Watch free tech tutorials
-[![YT channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsbravotech)
 
 - :full_moon_with_face: Funny fact about me: When life gives me lemons, i make lemonade 😁
 
