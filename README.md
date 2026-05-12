@@ -37,7 +37,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -60,11 +59,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     
 ---
 
-[![Watch now](https://img.youtube.com/vi/QZ2YVbNTWkE/0.jpg)](https://www.youtube.com/watch?v=QZ2YVbNTWkE)
 
 ---
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=hiddenuserug&show_icons=true&theme=default#gh-light-mode-only)](https://www.youtube.com/@itsbravotech)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=hiddenuserug&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Hiddenuserug)
 
 <!--
 **Hiddenuserug/Hiddenuserug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
