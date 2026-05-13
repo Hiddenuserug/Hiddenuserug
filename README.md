@@ -58,11 +58,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
     
 ---
-![My Stats](https://github-readme-stats.vercel.app/api?username=Hiddenuserug&show_icons=true&theme=tokyonight)
-
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiddenuserug&layout=compact&theme=tokyonight)
-
-<!--
-**Hiddenuserug/Hiddenuserug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
